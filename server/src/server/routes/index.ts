@@ -1,5 +1,5 @@
-import express from 'express'
-import WelcomeRouter from './welcome.router'
+import express from "express"
+import WelcomeRouter from "./welcome.router"
 
 const router = express.Router()
 

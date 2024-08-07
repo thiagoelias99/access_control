@@ -1,7 +1,8 @@
-import server from './server/server'
+/* eslint-disable @typescript-eslint/no-unused-expressions */
+import server from "./server/server"
 
 try {
-    server
+  server
 } catch (error) {
-    console.error(error)
+  console.error(error)
 }

@@ -48,7 +48,7 @@ It can be deployed on Windows, Linux, and macOS operating systems, but it is ide
 - User applications can request self accesses log.
 
 ### Roadmap
-- [ ] Configure server and database.
+- [X] Configure server and database.
 - [ ] Configure admin routes to manage terminal.
 - [ ] Configure admin routes to manage user level rules.
 - [ ] Configure admin routes to manage users.
